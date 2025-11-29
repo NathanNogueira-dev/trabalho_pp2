@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1764381540 source:c:\users\nathan2\desktop\trabalhopp_2\main.cpp
+	<iostream>
+
+1764439497 source:c:\users\nathan2\desktop\trabalhopp_2\principal.cpp
+	<iostream>
+	"Agenda.h"
+
+1764441024 c:\users\nathan2\desktop\trabalhopp_2\agenda.h
+	<iostream>
+	<fstream>
+	"Nodo.h"
+
+1764439459 c:\users\nathan2\desktop\trabalhopp_2\nodo.h
+	"Contato.h"
+
+1764439442 c:\users\nathan2\desktop\trabalhopp_2\contato.h
+	<iostream>
+
